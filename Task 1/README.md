@@ -1,3 +1,5 @@
+# Task 1
+
 - Search for currency by name, code
 - Give me currencies-names and codes only
 - Search for a country by name/capital with a field called currency with full info
